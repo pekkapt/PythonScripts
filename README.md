@@ -2,7 +2,10 @@
 PythonScripts
 
 ### Python script crack 2des cyphers
--crack_2DES.py
+- crack_2DES.py
 
 ### Python script generate rsa Key
--rsaKeyGen.py
+- rsaKeyGen.py
+
+### Python script save gas prices to jsonfile (e-leclerc.pt)
+- get-eleclerc-gas-data.py
