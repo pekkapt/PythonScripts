@@ -9,3 +9,6 @@ PythonScripts
 
 ### Python script save gas prices to jsonfile (e-leclerc.pt)
 - get-eleclerc-gas-data.py
+
+### Python script to split pdf pages
+- pdf-split-pages.py 
