@@ -12,3 +12,6 @@ PythonScripts
 
 ### Python script to split pdf pages
 - pdf-split-pages.py 
+
+### Python script to compress pdf documents
+- pdf-compress.py
