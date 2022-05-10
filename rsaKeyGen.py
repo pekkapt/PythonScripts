@@ -4,9 +4,9 @@ def powmod(x,a,m):
     r=1
     while a>0:
         if a%2==1:
-			r=(r*x)%m
+            r=(r*x)%m
         a=a>>1
-		x=(x*x)%m
+        x=(x*x)%m
     return a
 	
 """
